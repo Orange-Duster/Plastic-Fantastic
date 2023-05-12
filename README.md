@@ -2,7 +2,7 @@
 Hi, my name is Marcel, and this is the rocket I designed for my 7-8th grade elective's bottle rocket competition. 
 ![image](https://github.com/Orange-Duster/Plastic-Fantastic/assets/126211319/53a14362-55cf-41b8-8699-83eee1279959)
 
-Plastic Fantastic is the bottle rocket I designed for the sole purpose of becoming the highest-flying bottle rocket in the history of the elective, and it succeeded with an altitude of roughly 205ft (backed by estimates from multiple teachers as well as an Estes altimeter), blowing most competing rockets out of the water (most competing rockets went to altitudes around 90ft or below with the same air pressure and water). Comprised of mostly 3D printed parts (only key not 3D printed parts were the nozzle, bottle, tape, and parachute), this rocket was more durable, aerodynamic, and smaller than all other rockets.
+Plastic Fantastic is the bottle rocket I designed for the sole purpose of becoming the highest-flying bottle rocket in the elective's history, and it succeeded with an altitude of roughly 205ft (backed by estimates from multiple teachers as well as an Estes altimeter), blowing most competing rockets out of the water (most competing rockets went to altitudes around 90ft or below with the same air pressure and water). Comprised of mostly 3D printed parts (only key not 3D printed parts were the nozzle, bottle, tape, and parachute), this rocket was more durable, aerodynamic, and smaller than all other rockets.
 
 # Materials
 - One spool of 98a TPU (98a seems like almost the perfect toughness. That being said, 98a TPU is the only TPU I have, and I'm confident 95 will do well)
