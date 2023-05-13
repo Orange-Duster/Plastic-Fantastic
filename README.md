@@ -6,6 +6,13 @@ Plastic Fantastic is the bottle rocket I designed for the sole purpose of becomi
 
 Onshape Doc: https://cad.onshape.com/documents/568728661052d9718abc5a9f/w/46b7bf8f586bb6c84e893a06/e/ad5b78305a3c18b34fa7d7ea
 
+# Videos
+Flight 1: https://youtu.be/jw8dFjPMmTY
+Flight 2 (misfire): https://www.youtube.com/shorts/AitsKJXYLk0
+Flight 3: https://youtu.be/mmjBnhU5aF0
+Flight 4 (best flight): https://youtu.be/_FqnKczV9Lg   
+F
+
 # Materials
 - One spool of 98a TPU (98a seems like almost the perfect toughness. That being said, 98a TPU is the only TPU I have, and I'm confident 95a will do well)
 - One spool of a hard plastic (ABS, PLA, PETG, LW-PLA, etc. I used a combination of PLA and polymaker pre-foamed LW-PLA, but anything works)
