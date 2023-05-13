@@ -8,10 +8,16 @@ Onshape Doc: https://cad.onshape.com/documents/568728661052d9718abc5a9f/w/46b7bf
 
 # Videos
 Flight 1: https://youtu.be/jw8dFjPMmTY
+
 Flight 2 (misfire): https://www.youtube.com/shorts/AitsKJXYLk0
+
 Flight 3: https://youtu.be/mmjBnhU5aF0
+
 Flight 4 (best flight): https://youtu.be/_FqnKczV9Lg   
-F
+
+Flight 5: https://youtu.be/ncBxlR-Wp4I
+
+Flight 6: https://youtu.be/6hUenAYjK2o
 
 # Materials
 - One spool of 98a TPU (98a seems like almost the perfect toughness. That being said, 98a TPU is the only TPU I have, and I'm confident 95a will do well)
