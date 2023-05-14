@@ -48,7 +48,7 @@ For the launch gear, I used a Stratolauncher water rocket platform, going to the
 ![image](https://github.com/Orange-Duster/Plastic-Fantastic/assets/126211319/3c8198f3-38c2-4d1a-831e-aea41f54ef98)
 ![image](https://github.com/Orange-Duster/Plastic-Fantastic/assets/126211319/787bfdcc-fef7-4d43-8a49-6ed45a15f149)
 
-#Agknowledgements
+# Agknowledgements
 Huge thanks to my teammates Zachary, Noah, and Eli, as well as my teacher Ms. Modin for making these launches possible, as well as kicking me back into rocketry. 
 
 # Disclaimer
